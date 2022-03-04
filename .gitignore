@@ -1,8 +1,32 @@
-*/Build
-*/DerivedData
-**/Build
-**/DerivedData
-*/playground.xcworkspace
-**/playground.xcworkspace
-*/xcuserdata/summit.xcuserdatad/xcschemes
-**/xcuserdata/summit.xcuserdatad/xcschemes
+*/Build/
+*/DerivedData/
+**/Build/
+**/DerivedData/
+**.xcworkspace
+**.xcworkspace
+*/xcuserdata/
+**/xcuserdata/
+
+
+# first directory
+
+Build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+.DS_Store
+# second directory
+
+*/Build/
+*/DerivedData/
+**.xcworkspace
+*/xcuserdata/
+*/.DS_Store
+
+# third directory
+
+**/Build/
+**/DerivedData/
+***.xcworkspace
+**/xcuserdata/
+**/.DS_Store
