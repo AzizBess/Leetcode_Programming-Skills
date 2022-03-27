@@ -63,4 +63,21 @@ func removeDuplicates(_ nums: inout [Int]) -> Int {
 
 var n = [1,1,2]
 
-print(removeDuplicates(&n))
+//print(removeDuplicates(&n))
+
+
+//
+//extension Bool {
+//    static func ^ (left: Bool, right: Bool) -> Bool {
+//        return left != right
+//    }
+//}
+//
+//let a = true
+//let b = true
+//print (1 ^ 2)
+
+let num = 1
+let ux = String(num, radix: 2)
+
+print(1 ^ 1)
