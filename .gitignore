@@ -1,6 +1,6 @@
 **/Build/
 **/DerivedData
-**/*.xcworkspace
+**/xcworkspace
 **/*.xcuserdatad
 **/*.xcworkspacedata
 **/xcuserdata
