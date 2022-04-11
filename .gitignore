@@ -1,5 +1,6 @@
 **/Build/
 **/DerivedData
+**/xcschemes
 **/xcworkspace
 **/*.xcuserdatad
 **/*.xcworkspacedata
